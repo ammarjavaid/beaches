@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/beaches/static/css/main.3b57f17b.css",
+    "main.js": "/beaches/static/js/main.6f5a3d26.js",
+    "static/media/maldivesVideo.mp4": "/beaches/static/media/maldivesVideo.4b1c6a6fb879322d6587.mp4",
+    "static/media/keywest.jpg": "/beaches/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/beaches/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/beaches/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/beaches/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/beaches/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/beaches/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "static/media/gold.png": "/beaches/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "index.html": "/beaches/index.html",
+    "main.3b57f17b.css.map": "/beaches/static/css/main.3b57f17b.css.map",
+    "main.6f5a3d26.js.map": "/beaches/static/js/main.6f5a3d26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b57f17b.css",
+    "static/js/main.6f5a3d26.js"
+  ]
+}
